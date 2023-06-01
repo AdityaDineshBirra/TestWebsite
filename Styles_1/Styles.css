@@ -1,0 +1,46 @@
+header {
+    text-align: center;
+    font-size: 28px;
+    padding: 0%;
+    background: darkgrey;
+    color: ghostwhite;
+}
+
+section {
+    width: 627px;
+    max-width: 100%;
+    height: auto;
+    margin: auto;
+}
+
+article {
+    display: block;
+    max-width: 627px;
+    margin: auto;
+    font-size: 20px;
+    
+}
+
+.i-1 img {
+    max-width: 100%;
+    margin: auto;
+}
+
+.i-2 img {
+    vertical-align: middle;
+    max-width: 2%;
+    margin: 0;
+}
+
+footer {
+    display: block;
+    text-align: center;
+    padding-bottom: 12px;
+    padding-top: 20px;
+    margin: auto;
+    width: auto;
+    height: auto;
+    font-size: 20px;
+    font-family: sans-serif;
+}
+
